@@ -3,3 +3,6 @@ Atividades
 
 README do trabalho SENAI UC 7 - Versionamentos
 
+Ferramentas:
+Git
+GitHub
