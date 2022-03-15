@@ -20,5 +20,6 @@ Comandos utilizados:
 /git checkout/ 
 /git merge/ 
 /git tag -a/ 
+/git push origin --tags/
 /git tag/ 
 /git show/ 
